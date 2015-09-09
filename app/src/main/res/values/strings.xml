@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="to_the_top">置顶</string>
+    <string name="delete">删除</string>
+
+    <array name="text">
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+        <item>测试数据</item>
+    </array>
+</resources>
